@@ -1,14 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css">
-
-<style>
-  body {
-    background-color: #1e1e1e;
-    color: #fff;
-  }
-</style>
-
-
-
 ### ♠ Lucas Felix de Macedo
   
 ♥ Professor de T.I
