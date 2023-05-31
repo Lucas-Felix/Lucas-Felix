@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lucas-Felix&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/Lucas-Felix/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Felix&layout=compact)](https://github.com/Lucas-Felix/github-readme-stats)
 
 
 
