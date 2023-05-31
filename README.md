@@ -4,6 +4,8 @@
 <p> ♥ Professor de T.I &nbsp;&nbsp;   ♥ Developer  &nbsp;&nbsp; @: lucasfeix.els@gmail.com</P>
  </div>
 
+<img src="https://github.com/Lucas-Felix/Lucas-Felix/assets/65676345/26afe62b-b954-42b1-86ff-b71f385a5d0f" alt="Imagem em desenho" width="350" align="Right">
+
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lucas-Felix&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/Lucas-Felix/github-readme-stats#gh-dark-mode-only)
 
@@ -20,7 +22,9 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
-<img src="https://github.com/Lucas-Felix/Lucas-Felix/assets/65676345/26afe62b-b954-42b1-86ff-b71f385a5d0f" alt="Imagem em desenho" width="150" align="right">
+
+
+
 
 
 
