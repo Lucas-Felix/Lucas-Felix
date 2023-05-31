@@ -31,7 +31,7 @@
 <img src="https://github.com/Lucas-Felix/Lucas-Felix/assets/65676345/26afe62b-b954-42b1-86ff-b71f385a5d0f" alt="Imagem em desenho" width="150" align="right">
 </div>
 
-[!Snake animation](https://github.com/Lucas-Felix/blob/output/github-contribuition-grid-snake.svg)
+[!Snake animation](https://github.com/Lucas-Felix/Lucas-Felix/blob/output/github-contribuition-grid-snake.svg)
 
 
 
